@@ -55,7 +55,7 @@ pip install pillow
 ---
 
 ## 📱 Supported Devices
-- ✅ [Your Device Name Here] (confirmed working)  
+- ✅ General Mobile GM8 (gm8_sprout,gm8_d_sprout) (Snapdragon 435) (confirmed) 
 - More devices will be added as the community contributes!  
 
 ---
